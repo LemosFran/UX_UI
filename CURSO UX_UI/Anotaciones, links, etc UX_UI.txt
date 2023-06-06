@@ -1,0 +1,30 @@
+PAGS DE CREACION DE SITIOS WEBS: UX
+SQUARESPACE
+Guia de lo que se puede hacer en squareSpace:
+https://www.squarespace.com/feature-index
+
+WEBFLOW
+Plantillas de webFlow:
+https://webflow.com/templates/tag/marketplace
+Curso de como usar webflow:
+https://university.webflow.com/lesson/webflow-templates
+
+WIX
+Ejemplos de portfolios en Wix:
+https://www.wix.com/blog/ux-portfolio-examples
+
+GOOGLE
+Lista de funciones de google sites:
+https://workspace.google.com/products/sites/
+
+LINK Cosas a tener en cuenta para hacer un portfolio
+https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/supplement/MCYFJ/planifica-el-sitio-web-de-tu-portfolio
+
+ELEMENTOS SUELTOS:
+WYSIWYG. WYSIWYG se pronuncia “wi-zi-wig” y significa “lo que ves es lo que obtienes” en inglés.
+
+Como empezar un portfolio paso a paso (ir viendo los portfolios de los demas) LINK
+coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/quiz/D6ruy/actividad-empieza-tu-portfolio-en-linea/view-attempt
+
+DONDE QUEDE (IR MODIFICANDO):
+https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/lecture/frayj/explorar-marcas-personales 
