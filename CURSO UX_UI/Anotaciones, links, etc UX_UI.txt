@@ -27,7 +27,7 @@ Como empezar un portfolio paso a paso (ir viendo los portfolios de los demas) LI
 coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/quiz/D6ruy/actividad-empieza-tu-portfolio-en-linea/view-attempt
 
 ------DONDE QUEDE (IR MODIFICANDO):-----------------------------------------------------------------------------------
-https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/supplement/Juern/las-mejores-practicas-para-desarrollar-una-presencia-en-linea
+https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/supplement/Ynxhc/desarrollar-una-red-de-diseno-de-ux
 ----------------------------------------------------------------------------------------------------------------------
 
 Pasos para crear una marca personal:
@@ -49,4 +49,42 @@ danegalbraith.com/about
 www.shabnamkashani.com/kashani-about
 
 ---buenas practicas para desarrollar una presencia en linea---
-...
+https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/supplement/Juern/las-mejores-practicas-para-desarrollar-una-presencia-en-linea
+(contiene consejos entre otros de como usar linkded in)
+
+LINKEDIN:
+LinkedIn
+ es un sitio importante para establecer redes de contactos y búsquedas laborales. 
+Es probable que los empleadores revisen tu LinkedIn cuando te tengan en cuenta para un trabajo. 
+LinkedIn está diseñado para fines comerciales y establecer redes de contactos, por lo que tu perfil
+ tendrá un espacio para hablar sobre tu experiencia laboral, tus objetivos y tus logros. Si creas un perfil en
+ LinkedIn por primera vez, deberás incluir información de este tipo:
+
+Tu ubicación
+
+Enlaces a tu portfolio y currículum
+
+Tus calificaciones, como experiencias laborales anteriores y el haber finalizado este certificado 
+
+Logros sobresalientes (p. ej., haber sido empleado del mes, haber recibido un premio o reconocimientos especiales)
+
+Medium
+Dribbble
+ y 
+Behance
+ están orientados específicamente a que los diseñadores compartan sus trabajos y establezcan contactos.
+
+Cómo otros diseñadores de UX configuran sus perfiles de LinkedIn
+
+Cómo debes configurar tu perfil de LinkedIn
+
+------------------------------------
+
+https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/quiz/R6Qhk/actividad-crear-o-actualizar-un-perfil-de-linkedin/view-attempt
+EN ESTE LINK TAMBIEN HAY UNA PLANTILLA DE UN PORTFOLIO DE LINKEDIN
+
+Cuáles son las prácticas recomendadas para establecer tu presencia en línea en LinkedIn
+
+Por qué deberías actualizar tu portfolio e incluir enlaces a tu perfil de LinkedIn
+
+Cuando completes esta actividad, sabrás cómo luce un buen perfil de diseñador de UX en LinkedIn y cómo configurar el tuyo.
